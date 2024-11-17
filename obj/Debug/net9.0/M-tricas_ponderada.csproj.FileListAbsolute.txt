@@ -1,0 +1,14 @@
+/Users/isabelarocha/Documents/M-tricas_ponderada/bin/Debug/net9.0/M-tricas_ponderada
+/Users/isabelarocha/Documents/M-tricas_ponderada/bin/Debug/net9.0/M-tricas_ponderada.deps.json
+/Users/isabelarocha/Documents/M-tricas_ponderada/bin/Debug/net9.0/M-tricas_ponderada.runtimeconfig.json
+/Users/isabelarocha/Documents/M-tricas_ponderada/bin/Debug/net9.0/M-tricas_ponderada.dll
+/Users/isabelarocha/Documents/M-tricas_ponderada/bin/Debug/net9.0/M-tricas_ponderada.pdb
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.AssemblyInfoInputs.cache
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.AssemblyInfo.cs
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.csproj.CoreCompileInputs.cache
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.dll
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/refint/M-tricas_ponderada.dll
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.pdb
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/M-tricas_ponderada.genruntimeconfig.cache
+/Users/isabelarocha/Documents/M-tricas_ponderada/obj/Debug/net9.0/ref/M-tricas_ponderada.dll
