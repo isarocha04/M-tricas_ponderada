@@ -3,14 +3,14 @@
 
 ### Criação do projeto
 
-### Comandos Utilizados:
+### Comandos Utilizados
 ```bash
 > dotnet new console
 > dotnet add package System.Diagnostics.DiagnosticSource
 ```
 
-### Resultado:
-Adicione aqui o print do terminal mostrando a criação do projeto com `dotnet new console` e a adição do pacote `System.Diagnostics.DiagnosticSource`.
+<img width="1125" alt="Captura de Tela 2024-11-17 às 19 05 27" src="https://github.com/user-attachments/assets/169ecc53-7ab0-4f4f-a696-d54f2c55d7ba">
+
 
 ---
 
@@ -39,8 +39,7 @@ class Program
 }
 ```
 
-### Resultado
-Adicione aqui o print do editor com o código acima configurado no arquivo `Program.cs`.
+<img width="1077" alt="Captura de Tela 2024-11-17 às 19 07 05" src="https://github.com/user-attachments/assets/2a26baa1-81ff-4a41-bc7c-f8544a8b27a3">
 
 ---
 
@@ -49,28 +48,19 @@ Adicione aqui o print do editor com o código acima configurado no arquivo `Prog
 ```bash
 > dotnet run
 ```
+<img width="389" alt="Captura de Tela 2024-11-17 às 19 12 26" src="https://github.com/user-attachments/assets/f9d28190-7905-4398-a9fe-bd9969bfea72">
 
-### Resultado:
-Adicione aqui o print do terminal exibindo a saída do programa ao rodar o comando acima.
 
 ---
 
-##  Monitorando métricas com `dotnet-counters`
+##  Monitorando métricas 
 
-### Instalação do `dotnet-counters`:
-Caso o `dotnet-counters` não esteja instalado, utilize o seguinte comando:
-```bash
-> dotnet tool update -g dotnet-counters
-```
-
-### Comando para Monitorar Métricas:
 Com o programa em execução, utilize o seguinte comando em outro terminal:
 ```bash
 > dotnet-counters monitor -n metric-demo.exe --counters HatCo.Store
 ```
+<img width="699" alt="Captura de Tela 2024-11-17 às 19 15 06" src="https://github.com/user-attachments/assets/a141110c-051a-4454-97d8-ed284934ca49">
 
-### Resultado:
-Adicione aqui o print do terminal exibindo as métricas monitoradas com o `dotnet-counters`.
 
 ---
 
@@ -80,11 +70,10 @@ Adicione aqui o print do terminal exibindo as métricas monitoradas com o `dotne
 > dotnet run
 ```
 
-### Monitoramento de Métricas:
-Com o programa em execução, repita o monitoramento
+### Monitoramento de métricas
+Repita o monitoramento
 ```bash
 > dotnet-counters monitor -n metric-demo.exe --counters HatCo.Store
 ```
+<img width="1456" alt="Captura de Tela 2024-11-17 às 20 42 03" src="https://github.com/user-attachments/assets/e533190c-7fa9-4457-a789-1ed0d96d6201">
 
-### Resultado:
-Adicione aqui o print do terminal exibindo o monitoramento atualizado, com a unidade `{hats}` exibida nas métricas.
